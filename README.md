@@ -37,5 +37,5 @@ MDTA Al-Muhajirin adalah platform berbasis web yang bertujuan untuk memperkenalk
 
 
  3. **Jalankan proyek dalam mode pengembangan**
-   ```bash
-   npm run dev
+```bash
+   npm rund dev
