@@ -1,6 +1,6 @@
 # MDTA Al-Muhajirin
 
-🚀 **Website Resmi MDTA Al-Muhajirin** | [mdtaalmuhajirin.com](https://mdtaalmuhajirin.com)[mdtaalmuhajirin.com](https://scintillating-lebkuchen-435864.netlify.app/)
+🚀 **Website Resmi MDTA Al-Muhajirin** | [mdtaalmuhajirin.com](https://mdtaalmuhajirin.com) [https://scintillating-lebkuchen-435864.netlify.app/] (https://scintillating-lebkuchen-435864.netlify.app/)
 
 ---
 
