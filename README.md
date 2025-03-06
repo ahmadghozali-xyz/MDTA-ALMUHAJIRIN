@@ -30,21 +30,26 @@ MDTA Al-Muhajirin adalah platform berbasis web yang bertujuan untuk memperkenalk
    ```bash
    git clone https://github.com/username/mdta-almuhajirin.git
    cd mdta-almuhajirin
-   
+   ```
 2. **Instal dependensi**
    ```bash
    npm install
+   ```
+3. **Jalankan proyek dalam mode pengembangan**
+   ```bash
+   npm run dev
+   ```
+4. **Akses proyek di browser**
+   ```bash
+   xdg-open http://localhost:5173 &> /dev/null || open http://localhost:5173 || start http://localhost:5173
+   ```
 
-
- 3. **Jalankan proyek dalam mode pengembangan** 
-```bash
-   npm rund dev
-
-4. Akses proyek di browser Buka http://localhost:5173 di browser Anda.
-🎯 Kontribusi
+## 🎯 Kontribusi
 Kami terbuka untuk kontribusi! Jika Anda ingin membantu dalam pengembangan website ini, silakan lakukan fork, buat branch baru, dan ajukan pull request.
 
-📄 Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
+## 📄 Lisensi
+Proyek ini menggunakan lisensi **MIT**. Silakan lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
-💙 Dibuat dengan dedikasi untuk MDTA Al-Muhajirin | mdtaalmuhajirin.com
+---
+💙 Dibuat dengan dedikasi untuk MDTA Al-Muhajirin | [mdtaalmuhajirin.com](https://mdtaalmuhajirin.com)
+
