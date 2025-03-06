@@ -30,3 +30,12 @@ MDTA Al-Muhajirin adalah platform berbasis web yang bertujuan untuk memperkenalk
    ```bash
    git clone https://github.com/username/mdta-almuhajirin.git
    cd mdta-almuhajirin
+   
+2. **Instal dependensi**
+   ```bash
+   npm install
+
+
+ 3. **Jalankan proyek dalam mode pengembangan**
+   ```bash
+npm run dev
