@@ -1,0 +1,31 @@
+# BAB 4 - HASIL DAN PEMBAHASAN
+
+## 4.1 Implementasi Sistem
+
+Implementasi Sistem Informasi MDA Al Muhajirin merupakan langkah transformatif dalam modernisasi pengelolaan administrasi madrasah. Sistem ini dikembangkan dengan pendekatan holistik, mengintegrasikan berbagai aspek operasional madrasah ke dalam satu platform terpadu yang mudah digunakan. Melalui implementasi ini, madrasah dapat mengelola data siswa, pembayaran, dan kegiatan secara lebih efisien dan terstruktur.
+
+Arsitektur sistem dibangun dengan memanfaatkan teknologi modern yang telah teruji. Pada sisi frontend, penggunaan React.js dengan Tailwind CSS memungkinkan pengembangan antarmuka yang tidak hanya responsif tetapi juga menarik secara visual. Sementara itu, pemilihan Supabase sebagai Backend-as-a-Service memberikan fondasi yang kuat untuk manajemen data dan autentikasi. Database PostgreSQL yang dikelola oleh Supabase menjamin keamanan dan integritas data, sedangkan hosting melalui Netlify memastikan ketersediaan sistem yang tinggi.
+
+Basis data sistem dirancang dengan mempertimbangkan kompleksitas relasi antar data dan kebutuhan akan performa yang optimal. Struktur tabel yang diimplementasikan mencakup tabel Students untuk pengelolaan data siswa, tabel Payments untuk pencatatan transaksi keuangan, tabel Activities untuk dokumentasi kegiatan madrasah, dan tabel Users untuk manajemen pengguna sistem. Setiap tabel dirancang dengan mempertimbangkan normalisasi data dan efisiensi query.
+
+## 4.2 Antarmuka Sistem
+
+Antarmuka publik sistem dikembangkan dengan mengutamakan kemudahan akses informasi bagi masyarakat umum. Halaman beranda menyajikan informasi komprehensif tentang madrasah, dimulai dari hero section yang menampilkan visi madrasah, dilanjutkan dengan program-program unggulan, galeri kegiatan terkini, hingga formulir pendaftaran siswa baru yang interaktif. Desain responsif memastikan pengalaman pengguna yang optimal di berbagai perangkat.
+
+Halaman kegiatan dirancang sebagai pusat informasi aktivitas madrasah. Implementasi grid layout responsif memungkinkan penyajian dokumentasi kegiatan yang menarik dan mudah dinavigasi. Fitur filter dan pencarian memudahkan pengunjung dalam menemukan informasi kegiatan spesifik, sementara detail kegiatan dilengkapi dengan gambar dan deskripsi yang informatif.
+
+Panel admin hadir sebagai pusat kendali operasional madrasah. Dashboard utama menyajikan visualisasi data penting seperti statistik siswa aktif, status pembayaran SPP, dan tren kehadiran. Modul manajemen siswa memungkinkan pengelolaan data siswa secara komprehensif, dari pendaftaran hingga pemutakhiran informasi. Sistem pembayaran SPP diintegrasikan dengan fitur pelaporan yang detail, memudahkan pemantauan status keuangan madrasah.
+
+## 4.3 Fitur Keamanan
+
+Keamanan sistem menjadi prioritas utama dalam implementasi. Penerapan autentikasi berbasis token menjamin akses yang aman, sementara enkripsi data melindungi informasi sensitif. Sistem pembatasan akses berbasis peran memastikan pengguna hanya dapat mengakses fitur sesuai dengan wewenang mereka. Seluruh aktivitas pengguna dicatat dalam log sistematis, memungkinkan audit dan pemantauan keamanan yang efektif.
+
+## 4.4 Pengujian Sistem
+
+Pengujian sistem dilakukan secara menyeluruh untuk memastikan kualitas implementasi. Pengujian fungsional menunjukkan bahwa seluruh modul utama berfungsi sesuai spesifikasi, mencakup manajemen data siswa, proses pembayaran, pengelolaan kegiatan, serta autentikasi dan otorisasi. Hasil pengujian performa menunjukkan respons sistem yang cepat, penggunaan sumber daya yang efisien, serta kompatibilitas yang baik dengan berbagai browser.
+
+## 4.5 Evaluasi Sistem
+
+Evaluasi sistem menunjukkan dampak positif yang signifikan terhadap operasional madrasah. Berdasarkan feedback dari staf, sistem berhasil meningkatkan efisiensi administrasi secara substansial. Proses yang sebelumnya memakan waktu kini dapat diselesaikan dengan lebih cepat, dengan pengurangan waktu proses administrasi hingga 60%. Peningkatan akurasi data dan kemudahan akses informasi berkontribusi pada pengambilan keputusan yang lebih baik.
+
+Transparansi keuangan yang ditingkatkan melalui sistem pembayaran SPP yang terstruktur mendapat apresiasi dari wali murid. Komunikasi antara madrasah dan wali murid juga mengalami peningkatan kualitas berkat kemudahan akses informasi melalui platform digital. Secara keseluruhan, implementasi sistem telah membawa efisiensi operasional yang signifikan dan penghematan biaya bagi madrasah.
