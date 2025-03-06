@@ -34,7 +34,24 @@ MDTA Al-Muhajirin adalah platform berbasis web yang bertujuan untuk memperkenalk
 2. **Instal dependensi**
    ```bash
    npm install
+Instal dependensi
+bash
+Copy
+Edit
+npm install
+Jalankan proyek dalam mode pengembangan
+bash
+Copy
+Edit
+npm run dev
+Akses proyek di browser Buka http://localhost:5173 di browser Anda.
+🎯 Kontribusi
+Kami terbuka untuk kontribusi! Jika Anda ingin membantu dalam pengembangan website ini, silakan lakukan fork, buat branch baru, dan ajukan pull request.
 
+📄 Lisensi
+Proyek ini menggunakan lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
+
+💙 Dibuat dengan dedikasi untuk MDTA Al-Muhajirin | mdtaalmuhajirin.com
 
  3. **Jalankan proyek dalam mode pengembangan**
 ```bash
