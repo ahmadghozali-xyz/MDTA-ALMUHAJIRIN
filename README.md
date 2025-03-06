@@ -1,6 +1,6 @@
 # MDTA Al-Muhajirin
 
-🚀 **Website Resmi MDTA Al-Muhajirin** | [mdtaalmuhajirin.com](https://mdtaalmuhajirin.com)
+🚀 **Website Resmi MDTA Al-Muhajirin** | [mdtaalmuhajirin.com](https://mdtaalmuhajirin.com)[mdtaalmuhajirin.com](https://scintillating-lebkuchen-435864.netlify.app/)
 
 ---
 
@@ -23,7 +23,7 @@ MDTA Al-Muhajirin adalah platform berbasis web yang bertujuan untuk memperkenalk
 | **Supabase** | Backend as a Service (BaaS) berbasis PostgreSQL |
 
 ## 📷 Tampilan Website
-![MDTA Al-Muhajirin](https://via.placeholder.com/1200x600?text=Screenshot+Website)
+![MDTA Al-Muhajirin](https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P11.png)
 
 ## 🚀 Instalasi & Menjalankan Proyek
 1. **Clone repositori ini**
