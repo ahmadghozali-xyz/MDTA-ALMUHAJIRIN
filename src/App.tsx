@@ -218,7 +218,7 @@ function App() {
                 id="beranda" 
                 className="relative h-screen"
                 style={{
-                  backgroundImage: "url('https://albbftgsplpqepfhtllv.supabase.co/storage/v1/object/public/background//PXL_20250124_092544024.jpg?q=80&w=2940&auto=format&fit=crop')",
+                  backgroundImage: "url('https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P11.png')",
                   backgroundSize: 'cover',
                   backgroundPosition: 'center',
                   backgroundRepeat: 'no-repeat'
